@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">90ddf2ed-539f-4378-bea2-0200348811e0</dc:identifier>
+        <dc:title>I, Robot</dc:title>
+        <dc:creator opf:file-as="Doctorow, Cory" opf:role="aut">Cory Doctorow</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.36) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-01-29T11:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;"I, Robot" is a science-fiction short story by Cory Doctorow published in 2005.&lt;br&gt;The story is set in the type of police state needed to ensure that only one company is allowed to make robots, and only one type of robot is allowed.&lt;br&gt;The story follows single Father detective Arturo Icaza de Arana-Goldberg while he tries to track down his missing teenage daughter. The detective is a bit of an outcast because his wife defected to Eurasia, a rival Superpower.&lt;/p&gt;</dc:description>
+        <dc:publisher>Feedbooks</dc:publisher>
+        <dc:identifier opf:scheme="URN">urn|uuid|5f2ee840-3d24-11e1-b712-001cc0a62c0b</dc:identifier>
+        <dc:identifier opf:scheme="URI">http|//www.feedbooks.com/book/337</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Short Stories</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <meta content="{&quot;Cory Doctorow&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2012-01-13T12:00:09+00:00" name="calibre:timestamp"/>
+        <meta content="I, Robot" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

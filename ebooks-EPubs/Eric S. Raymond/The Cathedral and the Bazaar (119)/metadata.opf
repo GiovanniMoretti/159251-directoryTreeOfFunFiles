@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">119</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7ce08b8b-8106-403d-9be5-eb510138926d</dc:identifier>
+        <dc:title>The Cathedral and the Bazaar</dc:title>
+        <dc:creator opf:file-as="Raymond, Eric S." opf:role="aut">Eric S. Raymond</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-11-30T11:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;The Cathedral and the Bazaar is an essay by Eric S. Raymond on software engineering methods, based on his observations of the Linux kernel development process and his experiences managing an open source project, fetchmail. It was first presented by the author at the Linux Kongress on May 27, 1997 in Würzburg and was published as part of a book of the same name in 1999.&lt;br&gt;Copyright © 2000 Eric S. Raymond. Permission is granted to copy, distribute and/or modify this document under the terms of the Open Publication License, version 2.0.&lt;/p&gt;</dc:description>
+        <dc:publisher>Feedbooks</dc:publisher>
+        <dc:identifier opf:scheme="URN">urn|uuid|07c68258-5434-11e1-b1b3-001cc0a62c0b</dc:identifier>
+        <dc:identifier opf:scheme="URI">http|//www.feedbooks.com/book/4285</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Non-Fiction</dc:subject>
+        <meta content="{&quot;Eric S. Raymond&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Tech" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2012-02-28T07:12:27+00:00" name="calibre:timestamp"/>
+        <meta content="Cathedral and the Bazaar, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

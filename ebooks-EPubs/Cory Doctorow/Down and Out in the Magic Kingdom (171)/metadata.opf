@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">171</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">25f30d59-0928-443f-8342-079e5d3413fc</dc:identifier>
+        <dc:title>Down and Out in the Magic Kingdom</dc:title>
+        <dc:creator opf:file-as="Doctorow, Cory" opf:role="aut">Cory Doctorow</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.44) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-15T09:47:25+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http|//www.gutenberg.org/ebooks/8086</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Cory Doctorow&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2012-05-16T21:46:30+00:00" name="calibre:timestamp"/>
+        <meta content="Down and Out in the Magic Kingdom" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

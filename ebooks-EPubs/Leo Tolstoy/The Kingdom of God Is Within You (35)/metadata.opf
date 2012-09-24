@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bd9a481f-0d1f-4cd2-a903-e9b5512cd359</dc:identifier>
+        <dc:title>The Kingdom of God Is Within You</dc:title>
+        <dc:creator opf:file-as="Tolstoy, Leo" opf:role="aut">Leo Tolstoy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.36) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-01-11T21:51:46+00:00</dc:date>
+        <dc:publisher>ManyBooks.net</dc:publisher>
+        <dc:language>en</dc:language>
+        <dc:subject>Religion</dc:subject>
+        <dc:subject>Daily Living</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <meta content="{&quot;Leo Tolstoy&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2012-01-11T21:51:46+00:00" name="calibre:timestamp"/>
+        <meta content="Kingdom of God Is Within You, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

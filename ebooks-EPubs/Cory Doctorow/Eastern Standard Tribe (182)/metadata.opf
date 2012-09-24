@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">182</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6f355c89-f330-497f-928b-136d8a96e863</dc:identifier>
+        <dc:title>Eastern Standard Tribe</dc:title>
+        <dc:creator opf:file-as="Doctorow, Cory" opf:role="aut">Cory Doctorow</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.64) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-08-14T12:00:00+00:00</dc:date>
+        <dc:publisher>Tor Books</dc:publisher>
+        <dc:identifier opf:scheme="URI">Eastern Standard Tribe</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>General Fiction</dc:subject>
+        <meta content="{&quot;Cory Doctorow&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2012-08-15T10:14:38+00:00" name="calibre:timestamp"/>
+        <meta content="Eastern Standard Tribe" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b4db5a26-3e63-442d-9249-74dfe295bf8b</dc:identifier>
+        <dc:title>Little Brother</dc:title>
+        <dc:creator opf:file-as="Doctorow, Cory" opf:role="aut">Cory Doctorow</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.36) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-05-04T12:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;Marcus, a.k.a “w1n5t0n,” is only seventeen years old, but he figures he already knows how the system works–and how to work the system. Smart, fast, and wise to the ways of the networked world, he has no trouble outwitting his high school’s intrusive but clumsy surveillance systems.&lt;/p&gt;
+&lt;p class="description"&gt;But his whole world changes when he and his friends find themselves caught in the aftermath of a major terrorist attack on San Francisco. In the wrong place at the wrong time, Marcus and his crew are apprehended by the Department of Homeland Security and whisked away to a secret prison where they’re mercilessly interrogated for days.&lt;/p&gt;
+&lt;p class="description"&gt;When the DHS finally releases them, Marcus discovers that his city has become a police state where every citizen is treated like a potential terrorist. He knows that no one will believe his story, which leaves him only one option: to take down the DHS himself.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Feedbooks</dc:publisher>
+        <dc:identifier opf:scheme="URN">urn|uuid|391d6f96-3d24-11e1-b712-001cc0a62c0b</dc:identifier>
+        <dc:identifier opf:scheme="URI">http|//www.feedbooks.com/book/2466</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <meta content="{&quot;Cory Doctorow&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2012-01-13T12:01:22+00:00" name="calibre:timestamp"/>
+        <meta content="Little Brother" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
